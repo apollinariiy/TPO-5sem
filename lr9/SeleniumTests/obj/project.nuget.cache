@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hNSTSw95so5SvHlfCugqhSXgvV0HaoE/eeUG8lFAzFA1vDK1HPRz+g1YKX6grZzcdnQnvR+sRrC7H7qghw9yA==",
+  "dgSpecHash": "Mlq7dnjYxTHYFOFxK/kGYJhwHnGohFfrdJzsTUIAMzdSt2a1ONrmyCDt4iesNwcL6g0phCY2pxMEX5nsKhCw+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\SeleniumTests.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\SeleniumTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

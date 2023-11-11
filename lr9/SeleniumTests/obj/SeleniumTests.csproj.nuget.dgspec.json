@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\SeleniumTests.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\SeleniumTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\SeleniumTests.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\SeleniumTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\SeleniumTests.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\SeleniumTests.csproj",
         "projectName": "SeleniumTests",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\SeleniumTests.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\SeleniumTests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\Lab9\\SeleniumTests\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr9\\SeleniumTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
