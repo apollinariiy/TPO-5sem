@@ -20,6 +20,7 @@ namespace SeleniumTests
         public void Setup()
         {
             options = new ChromeOptions();
+            options.BinaryLocation = "C:\\Users\\user\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe";
             driver = new ChromeDriver("C:\\webdriver\\chromedriver-win64", options);
             baseURL = "https://megatop.by/catalog/zhenshchiny/galantereya/sumki";
             verificationErrors = new StringBuilder();
