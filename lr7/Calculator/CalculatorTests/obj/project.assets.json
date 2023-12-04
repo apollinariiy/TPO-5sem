@@ -2323,11 +2323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr6\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr7\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
       "projectName": "CalculatorTests",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr6\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr7\\Calculator\\CalculatorTests\\CalculatorTests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr6\\Calculator\\CalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr7\\Calculator\\CalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2344,8 +2344,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr6\\Calculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr6\\Calculator\\Calculator\\Calculator.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr7\\Calculator\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\git-demo\\lr7\\Calculator\\Calculator\\Calculator.csproj"
             }
           }
         }
