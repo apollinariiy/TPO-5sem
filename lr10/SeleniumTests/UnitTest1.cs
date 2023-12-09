@@ -54,7 +54,7 @@ namespace SeleniumTests
             modalSelectWindow.SelectCookie();
             Thread.Sleep(1000);
             var mainWindow = new MainWindowPageObject(driver);
-            Thread.Sleep(1000);
+            Thread.Sleep(3000);
             CategoryWindowPageObject categoryWindow = mainWindow.GoToCategory("Галантерея");
             Thread.Sleep(3000);
             categoryWindow.GoToSubCategory("Кошельки");
@@ -71,13 +71,13 @@ namespace SeleniumTests
         {
             var modalSelectWindow = new ModalWindowPageObject(driver);
             modalSelectWindow.SelectCity();
-            Thread.Sleep(1000);
-            modalSelectWindow.SelectCookie();
-            Thread.Sleep(1000);
-            var mainWindow = new MainWindowPageObject(driver);
-            Thread.Sleep(1000);
-            CategoryWindowPageObject categoryWindow = mainWindow.GoToCategory("Галантерея");
             Thread.Sleep(3000);
+            modalSelectWindow.SelectCookie();
+            Thread.Sleep(3000);
+            var mainWindow = new MainWindowPageObject(driver);
+            Thread.Sleep(3000);
+            CategoryWindowPageObject categoryWindow = mainWindow.GoToCategory("Галантерея");
+            Thread.Sleep(4000);
             categoryWindow.GoToSubCategory("Сумки");
             Thread.Sleep(3000);
             categoryWindow.FilterByPrice();
